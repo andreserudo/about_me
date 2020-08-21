@@ -1,5 +1,41 @@
-*{
-  margin: 0px;
-  padding: 0px;
+/*
+{
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
+
+.content{
+  height: 100vh;
+
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .about{
+    display:flex;
+    flex-direction: row;
+    align-items: center;    
+  
+  }
+
+  .descriptions{
+    display:flex;
+    flex-direction: column;
+    align-items: center;    
+
+    .lists{
+      display:flex;
+      flex-direction: row;      
+      
+      .frontEnd{
+        margin-right: 1.5rem;
+      }
+      div + div {
+        margin-right: 1.5rem;
+      }
+    }
+  }
+}
+*/
